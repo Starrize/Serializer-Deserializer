@@ -1,0 +1,19 @@
+#30 java.lang.Integer{
+<value>:30
+}
+
+#2219364 java.lang.String{
+<value>:Gigi
+}
+
+#2018699554 Family.Male{
+<age>:#30
+<name>:#2219364
+}
+
+#366712642 Family.Family{
+<mother>:#2018699554
+<father>:#2018699554
+<abc>:1
+}
+
